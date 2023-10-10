@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeBistroOnionAPI.Persiste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeBistroOnionAPI.API", "Presentation\CafeBistroOnionAPI.API\CafeBistroOnionAPI.API.csproj", "{79211FEB-3C84-4341-89DB-4F1650524284}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeBistroOnionAPI.WebUI", "Presentation\CafeBistroOnionAPI.WebUI\CafeBistroOnionAPI.WebUI.csproj", "{5990BAFA-448D-4B72-954A-90A90D78215B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{79211FEB-3C84-4341-89DB-4F1650524284}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79211FEB-3C84-4341-89DB-4F1650524284}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79211FEB-3C84-4341-89DB-4F1650524284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5990BAFA-448D-4B72-954A-90A90D78215B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5990BAFA-448D-4B72-954A-90A90D78215B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5990BAFA-448D-4B72-954A-90A90D78215B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5990BAFA-448D-4B72-954A-90A90D78215B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{62F4359A-14D8-4C05-AD62-AFD3A0602256} = {B4C09AC4-DB45-4998-8318-6473B3133569}
 		{73BC4207-13FE-4637-8196-A4FBD7524AD7} = {B4C09AC4-DB45-4998-8318-6473B3133569}
 		{79211FEB-3C84-4341-89DB-4F1650524284} = {5A1AC07F-07F7-4872-BB26-E2E8987E7679}
+		{5990BAFA-448D-4B72-954A-90A90D78215B} = {5A1AC07F-07F7-4872-BB26-E2E8987E7679}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6CDD400-FDBC-40A2-83E1-E566F64F600C}
